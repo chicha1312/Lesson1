@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Seminar1\Tasko\bin\Debug\net6.0\Tasko.exe
+C:\Users\User\Desktop\Seminar1\Tasko\bin\Debug\net6.0\Tasko.deps.json
+C:\Users\User\Desktop\Seminar1\Tasko\bin\Debug\net6.0\Tasko.runtimeconfig.json
+C:\Users\User\Desktop\Seminar1\Tasko\bin\Debug\net6.0\Tasko.dll
+C:\Users\User\Desktop\Seminar1\Tasko\bin\Debug\net6.0\Tasko.pdb
+C:\Users\User\Desktop\Seminar1\Tasko\obj\Debug\net6.0\Tasko.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Seminar1\Tasko\obj\Debug\net6.0\Tasko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Seminar1\Tasko\obj\Debug\net6.0\Tasko.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Seminar1\Tasko\obj\Debug\net6.0\Tasko.AssemblyInfo.cs
+C:\Users\User\Desktop\Seminar1\Tasko\obj\Debug\net6.0\Tasko.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Seminar1\Tasko\obj\Debug\net6.0\Tasko.dll
+C:\Users\User\Desktop\Seminar1\Tasko\obj\Debug\net6.0\refint\Tasko.dll
+C:\Users\User\Desktop\Seminar1\Tasko\obj\Debug\net6.0\Tasko.pdb
+C:\Users\User\Desktop\Seminar1\Tasko\obj\Debug\net6.0\Tasko.genruntimeconfig.cache
+C:\Users\User\Desktop\Seminar1\Tasko\obj\Debug\net6.0\ref\Tasko.dll
